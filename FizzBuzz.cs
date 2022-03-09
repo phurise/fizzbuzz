@@ -1,4 +1,4 @@
-using Internal;
+clusing Internal;
 using System;
 
 class ConsoleUI
@@ -23,7 +23,7 @@ class ConsoleUI
         } while (!parsed);
 
         Console.Clear();
-        //if divisible by 3 print fizz
+        
         if (number % 3 == 0 && number % 5 != 0)
         {
             Console.WriteLine("Fizz");
