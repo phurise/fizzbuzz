@@ -1,4 +1,3 @@
-clusing Internal;
 using System;
 
 class ConsoleUI
